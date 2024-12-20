@@ -2,7 +2,7 @@
 
 ![cloud](img/cloud_infrastructure.jpg)
 
-**by Hugo Camacho Romero [ATU](https://www.atu.ie/)** Lecturer Mr. Ian McLoughlin.
+**By Hugo Camacho Romero at [ATU](https://www.atu.ie/)** Lecturer Mr. Ian McLoughlin.
 
 This repository contains my assessment submission for the computer infrastructure module.
 
