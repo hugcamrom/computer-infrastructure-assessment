@@ -28,7 +28,7 @@ jobs:
         run: bash ./weather.sh
 
       # Step 4: Configure Git and Commit Changes
-      - name: Commit weather data
+      - name: Commit and push weather data
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
