@@ -8,4 +8,4 @@ Hello! At the moment I'm trying to learn vi ( I= insert/edit & escape back to co
 
 Trying to Commit and push, I've encounter some difficulties.
 
-Remember in vi to typo : then wq enter to go out/exit
+Remember in vi to type : then wq enter to go out/exit
