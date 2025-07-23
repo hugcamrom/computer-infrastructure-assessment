@@ -79,7 +79,7 @@ This project ties together scripting, data handling, and automation concepts. By
 
 managing structured data efficiently. The tasks demonstrate how to create automated workflows that integrate directly with version control systems like GitHub.
 
-By the project's completion, the system is fully automated for both weather data retrieval and fortune generation, with scheduled GitHub Actions workflows handling 
+By the project's completion, the system is fully automated for both weather data retrieval and fortune generation, with scheduled GitHub Actions workflows handling
 
 ### Context installer
 
